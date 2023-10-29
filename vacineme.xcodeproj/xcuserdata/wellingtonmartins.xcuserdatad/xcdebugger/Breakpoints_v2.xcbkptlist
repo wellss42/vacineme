@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "72711C2A-4F18-40A7-8092-42CB55FCEABE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC89278E-69C4-40B3-88BD-97FF81D3CFB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getEstabelecimentos(ibge:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD77DFC-3910-4C84-9055-77FF28A120D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getEstabelecimentos(ibge:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2DD77DFC-3910-4C84-9055-77FF28A120D5 - 52c870afb912a1ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.EstabelecimentosService.getEstabelecimentos(ibge: Swift.String, completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "2DD77DFC-3910-4C84-9055-77FF28A120D5 - b8fb5eafb863e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in vacineme.EstabelecimentosService.getEstabelecimentos(ibge: Swift.String, completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "2DD77DFC-3910-4C84-9055-77FF28A120D5 - 52c870afb912a1ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.EstabelecimentosService.getEstabelecimentos(ibge: Swift.String, completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDCCF833-AB39-48D1-8E9B-29FB659483D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getPostosVacinado(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDCCF833-AB39-48D1-8E9B-29FB659483D4 - e818dac6502b0e52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "FDCCF833-AB39-48D1-8E9B-29FB659483D4 - 7702abd021712a8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;Swift.Array&lt;vacineme.EstabelecimentoVacinando&gt;, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A94C712-99EE-4080-BFD8-4B8E972B36E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getPostosVacinado(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A94C712-99EE-4080-BFD8-4B8E972B36E6 - e818dac6502b73e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "5A94C712-99EE-4080-BFD8-4B8E972B36E6 - e818dac6502b73e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "5A94C712-99EE-4080-BFD8-4B8E972B36E6 - 7702abd021712a70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;Swift.Array&lt;vacineme.EstabelecimentoVacinando&gt;, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC63EFF9-DE43-4FF4-AA1F-7EB51A45F9F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getPostosVacinado(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC63EFF9-DE43-4FF4-AA1F-7EB51A45F9F1 - e818dac6502b73e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "BC63EFF9-DE43-4FF4-AA1F-7EB51A45F9F1 - e818dac6502b73e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "BC63EFF9-DE43-4FF4-AA1F-7EB51A45F9F1 - 7702abd021712bd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;Swift.Array&lt;vacineme.EstabelecimentoVacinando&gt;, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "824">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12D8EE14-711B-4943-BCE4-3DFA8E904794"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "mapResult(doc:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12D8EE14-711B-4943-BCE4-3DFA8E904794 - e818dac6502b73e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "12D8EE14-711B-4943-BCE4-3DFA8E904794 - e818dac6502b73e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.getPostosVacinado(completion: (Swift.Result&lt;vacineme.EstabelecimentosSaude, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "12D8EE14-711B-4943-BCE4-3DFA8E904794 - 605ae112d13d635"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.PostoVacinadoFireBaseService.mapResult(doc: Swift.Array&lt;__C.FIRQueryDocumentSnapshot&gt;, completion: (Swift.Result&lt;Swift.Array&lt;vacineme.EstabelecimentoVacinando&gt;, vacineme.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF3930AD-5C60-461C-A650-3583ECD8C551"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/PostoVacinado/PostoVacinadoFireBaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "mapResult(doc:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C856FDAE-3E84-4469-B03C-EB4174E572E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/ViewModel/DetalhesVacinandoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "deleteEstabelecimento(id:idMobile:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E0A3E6D-BCDA-4804-A7DE-C7EE2BD635C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/ViewModel/DetalhesVacinandoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "deleteEstabelecimento(id:idMobile:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E2AA7A7-E347-4084-8314-907407C7A8AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/ViewModel/DetalhesVacinandoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "deleteEstabelecimento(id:idMobile:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58FD5030-0B6A-43FB-A3A6-120E33F8E75E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/ViewModel/DetalhesVacinandoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "deleteEstabelecimento(id:idMobile:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58FD5030-0B6A-43FB-A3A6-120E33F8E75E - 6cd31f75a7ca87a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.DetalhesVacinandoViewModel.__allocating_init(serviceViaCep: vacineme.ViaCepServiceType, service: vacineme.PostoVacinadoFireBaseServiceType) -&gt; vacineme.DetalhesVacinandoViewModel"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/ViewModel/DetalhesVacinandoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "58FD5030-0B6A-43FB-A3A6-120E33F8E75E - ed8af5a103cdd552"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.DetalhesVacinandoViewModel.init(serviceViaCep: vacineme.ViaCepServiceType, service: vacineme.PostoVacinadoFireBaseServiceType) -&gt; vacineme.DetalhesVacinandoViewModel"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/ViewModel/DetalhesVacinandoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "58FD5030-0B6A-43FB-A3A6-120E33F8E75E - 6964e282977ff769"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vacineme.DetalhesVacinandoViewModel.deleteEstabelecimento(id: Swift.String, idMobile: Swift.String) -&gt; ()"
+                  moduleName = "vacineme"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Desktop/Projeto%20integrado%20-%20Desenvolvimento%20Mobile/vacineme/vacineme/ViewModel/DetalhesVacinandoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B945A923-6AAA-4353-8E57-E5C4C19C1041"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getEstabelecimentos(ibge:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41F45CB5-3B02-4B0D-B117-576076B8C208"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getEstabelecimentos(ibge:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A87614C3-D184-4457-A53F-5E5DEF657111"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vacineme/Service/SaudeGov/EstabelecimentosService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getEstabelecimentos(ibge:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
