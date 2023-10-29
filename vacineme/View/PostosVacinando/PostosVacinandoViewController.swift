@@ -29,6 +29,17 @@ class PostosVacinandoViewController: UIViewController {
          return imageView
     }()
     
+    private lazy var titleLabel: UILabel = {
+        let label = UILabel()
+        label.text = "Postos vacinando"
+        label.textAlignment = .center
+        label.font = UIFont(name: "Helvetica", size: 40)
+        label.font = UIFont.boldSystemFont(ofSize: 40)
+        label.textColor = UIColor.white
+        label.translatesAutoresizingMaskIntoConstraints = false
+        return label
+    }()
+    
     private lazy var searchCep: UITextField = {
         let textField = UITextField()
         textField.backgroundColor = UIColor.white
@@ -162,6 +173,7 @@ extension PostosVacinandoViewController: ViewCoding {
     
     func buildViewHerarchy() {
         view.addSubview(imageView)
+        imageView.addSubview(titleLabel)
         imageView.addSubview(searchCep)
         imageView.addSubview(buttonSearch)
         view.addSubview(bodyView)
@@ -176,6 +188,10 @@ extension PostosVacinandoViewController: ViewCoding {
             imageView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
             imageView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
             imageView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
+            
+            titleLabel.topAnchor.constraint(equalTo: imageView.topAnchor, constant: 15),
+            titleLabel.leadingAnchor.constraint(equalTo: imageView.leadingAnchor, constant: 8),
+            titleLabel.trailingAnchor.constraint(equalTo: imageView.trailingAnchor, constant: -8),
             
             searchCep.heightAnchor.constraint(equalToConstant: 55),
             searchCep.topAnchor.constraint(equalTo: imageView.bottomAnchor, constant: -90),
